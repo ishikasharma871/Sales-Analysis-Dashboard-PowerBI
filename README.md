@@ -1,6 +1,6 @@
-# 🥛 Dairy Business Analysis Dashboard
+#  Dairy Business Analysis Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an interactive Power BI dashboard developed to analyze dairy business performance using sales, inventory, storage, and product-related data.
 
@@ -8,7 +8,7 @@ The dashboard helps identify revenue trends, top-selling products, storage condi
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - Analyze overall business revenue and product sales.
 - Identify top-selling dairy products.
@@ -20,7 +20,7 @@ The dashboard helps identify revenue trends, top-selling products, storage condi
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Microsoft Power BI
 - Power Query Editor
@@ -29,7 +29,7 @@ The dashboard helps identify revenue trends, top-selling products, storage condi
 
 ---
 
-## 📊 Data Cleaning Process
+##  Data Cleaning Process
 
 The following data cleaning steps were performed using Power Query:
 
@@ -42,7 +42,7 @@ The following data cleaning steps were performed using Power Query:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 ### KPI Cards
 - Total Revenue
@@ -75,7 +75,7 @@ Analyzes shelf life of dairy products.
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ### Main Dashboard
 
@@ -83,7 +83,7 @@ Analyzes shelf life of dairy products.
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - Refrigerated storage conditions handle the highest quantity of products.
 - Certain dairy products have significantly longer shelf life than others.
@@ -92,7 +92,7 @@ Analyzes shelf life of dairy products.
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the `.pbix` file.
 2. Open it using Power BI Desktop.
@@ -102,7 +102,7 @@ Analyzes shelf life of dairy products.
 
 ---
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Modeling
@@ -115,7 +115,7 @@ Analyzes shelf life of dairy products.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Ishika Sharma**
 
